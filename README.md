@@ -45,7 +45,7 @@ Allows users to **view, filter, search, and paginate company data**.
 ---
 
 ## Folder Structure
-
+```
 K_RAMESH_COMPANIES_APIS/
 ├─ backend/
 │ ├─ src/
@@ -72,7 +72,7 @@ K_RAMESH_COMPANIES_APIS/
 ├─ seed/
 │ ├─ seedCompanies.js (seed the data to sever)
 ├─ README.md
-
+```
 ## Setup & Installation
 
 ### Backend
